@@ -70,12 +70,11 @@ module full_subtractor (
 
 endmodule
 ```
-
-/* 
+"""
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 Developed by:VIGNESH J 
 RegisterNumber:212225230297
-*/
+"""
 
 
 **RTL Schematic output timing waveform full adder**
