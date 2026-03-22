@@ -79,12 +79,14 @@ RegisterNumber:212225230297
 **RTL Schematic output timing waveform full adder**
 <img width="1032" height="555" alt="image" src="https://github.com/user-attachments/assets/2ab41013-e45b-436d-8222-8ddcf1942976" />
 
-<img width="1595" height="280" alt="image" src="https://github.com/user-attachments/assets/b501d681-856a-4e8b-be79-3a25271d3d09" />
+<img width="1543" height="729" alt="image" src="https://github.com/user-attachments/assets/ba91aebb-9d65-4911-8461-5427a1245678" />
 
-full subractor
+
+**RTL Schematic output timing waveform full subractor**
 <img width="1035" height="452" alt="image" src="https://github.com/user-attachments/assets/eeddff42-bc48-4f18-a121-d29f952eaabb" />
 
-<img width="1042" height="168" alt="image" src="https://github.com/user-attachments/assets/84309265-2e86-4b8c-afac-1624b19acc59" />
+<img width="1548" height="734" alt="image" src="https://github.com/user-attachments/assets/a4773e50-e891-40ef-aa59-ce7177b23276" />
+
 
 **Result:**
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
